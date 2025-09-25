@@ -8,6 +8,6 @@ t = turtle.Turtle()
 def five_integers():
     for i in range(5):
         integer = int(input("Enter an Integer:"))
-...     t.left(integer)
-...     t.forward(100)
+        t.left(integer)
+        t.forward(100)
 five_integers()
