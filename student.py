@@ -1,9 +1,6 @@
 #Name: Benjamin Del Barrio
 #Email: Benjamin.delbarrio31@myhunter.cuny.edu
 import turtle
-...
-...
-...
 t = turtle.Turtle()
 def five_integers():
     for i in range(5):
